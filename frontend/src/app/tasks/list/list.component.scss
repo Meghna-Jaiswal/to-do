@@ -1,0 +1,17 @@
+:host{
+    display: block;
+    margin-top: 1rem;
+
+}
+mat-spinner{
+    margin: auto;
+}
+.info-text{
+    text-align: center;
+}
+.task-image{
+    width: 100%;
+}.task-image img{
+    width: 100;
+    box-shadow: 1px 1px 5px rgba($color: #000000, $alpha: 0.5);
+}

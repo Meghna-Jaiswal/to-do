@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGODB_ATLAS":"mongodb+srv://mogi:GqRc2tMJWnTnatOh@cluster0.szyq4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "JWT_KEY":"your_strong_salt_secret"
+    }
+}
